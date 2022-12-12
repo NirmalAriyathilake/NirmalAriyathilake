@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nirmal 👋</h1>
+<h1 align="center">Hey, I'm Nirmal Ariyathilake 👋</h1>
 
 <p align="center">
   <samp>
