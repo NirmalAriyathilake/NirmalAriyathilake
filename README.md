@@ -42,7 +42,7 @@
   <samp>
     <a href="mailto:nirmal.ariyathilake@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/nirmal-ariyathilake/">LinkedIn</a> •
-    <a href="wa.me/+94712984933">WhatsApp</a>
+    <a href="https://wa.me/+94712984933">WhatsApp</a>
   </samp>
 </p>
 
