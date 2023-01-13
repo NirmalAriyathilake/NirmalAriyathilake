@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     <img src="https://nirmalcode-github-readme-stats.vercel.app/api?username=nirmalariyathilake&show_icons=true&theme=codeSTACKr" alt="stats" />
-    <img src="https://nirmalcode-github-readme-stats.vercel.app/api/top-langs/?username=nirmalariyathilake&layout=compact" alt="top-langs" />
+    <img src="https://nirmalcode-github-readme-stats.vercel.app/api/top-langs/?username=nirmalariyathilake&layout=compact&theme=codeSTACKr" alt="top-langs" />
   </samp>
 </p>
 
