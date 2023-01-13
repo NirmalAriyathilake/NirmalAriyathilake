@@ -66,6 +66,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nirmalariyathilake&show_icons=true&theme=codeSTACKr" alt="stats" />
+<p align="center">
+  <samp>
+    <img src="https://nirmalcode-github-readme-stats.vercel.app/api?username=nirmalariyathilake&show_icons=true&theme=codeSTACKr" alt="stats" />
+    <img src="https://nirmalcode-github-readme-stats.vercel.app/api/top-langs/?username=nirmalariyathilake&layout=compact" alt="top-langs" />
+  </samp>
+</p>
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nirmalariyathilake.nirmalariyathilake" />
