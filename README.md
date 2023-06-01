@@ -28,6 +28,7 @@
     <a href="https://www.android.com/">Android</a> •
     <a href="https://kotlinlang.org/">Kotlin</a> •
     <a href="https://nextjs.org/">NextJS</a> •
+    <a href="https://kit.svelte.dev/">SvelteKit</a> •
     <a href="https://tailwindcss.com/">TailwindCSS</a> •
     <a href="https://firebase.google.com/">Firebase</a> •
     <a href="https://www.python.org/">Python</a>
