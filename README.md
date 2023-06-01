@@ -74,4 +74,4 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nirmalariyathilake.nirmalariyathilake" />
+<!-- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nirmalariyathilake.nirmalariyathilake" /> -->
